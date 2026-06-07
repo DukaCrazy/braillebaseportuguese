@@ -21,3 +21,12 @@
 - For collaborating as an authentic development partner, assisting in architecture refining, code portability across platforms, and documentation review.
 ### Nagao Yuji
 - For creating and maintaining BrailleBase, designing its architecture, and developing its core features with a focus on accessibility and education.
+
+### Font Base
+        https://fisicaembraille.ufpr.br/alfabeto-braille/
+        https://lepix.org/braillept/
+        https://www.infoescola.com/portugues/braile/
+        https://pt.wikipedia.org/wiki/Alfabeto_portugu%C3%AAs
+        https://www.questoesestrategicas.com.br/resumos/ver/numeros-sinais-matematicos-unidades-monetarias-e-de-medidas
+        https://www.deficienciavisual.pt/txt-grafiabrailleLP.htm
+        https://www.gov.br/ibc/pt-br/pesquisa-e-tecnologia/materiais-especializados-1/livros-em-braille-1/o-sistema-braille-arquivos/grafia-braille-para-a-lingua-portuguesa-pdf.pdf
