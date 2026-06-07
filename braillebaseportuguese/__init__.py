@@ -4,12 +4,7 @@ class BrailleBasePortuguese(BrailleBase):
     def __init__(self):
 
         """
-        https://fisicaembraille.ufpr.br/alfabeto-braille/
-        https://lepix.org/braillept/
-        https://www.infoescola.com/portugues/braile/
-        https://pt.wikipedia.org/wiki/Alfabeto_portugu%C3%AAs
-        https://www.questoesestrategicas.com.br/resumos/ver/numeros-sinais-matematicos-unidades-monetarias-e-de-medidas
-        https://www.deficienciavisual.pt/txt-grafiabrailleLP.htm
+
         """
         super().__init__()
         self.setting_braille_rules01("⠨", "⠐") #2026/05/18
