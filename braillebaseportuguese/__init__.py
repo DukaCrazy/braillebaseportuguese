@@ -177,8 +177,3 @@ class BrailleBasePortuguese(BrailleBase):
         #self.append_special_braille_letter("III", ["⠠", "⠊", "⠊", "⠊"])
         #self.append_special_braille_letter("IV", ["⠠", "⠊", "⠧"])
         #self.append_special_braille_letter("art.", ["⠼", "⠁"])
-
-
-#TEST
-#bb = BrailleBasePortuguese()
-#print(bb.output_braille_txt("AAaAAAaaaAa 112233aA"))
