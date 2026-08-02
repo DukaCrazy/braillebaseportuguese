@@ -30,3 +30,6 @@
         https://www.questoesestrategicas.com.br/resumos/ver/numeros-sinais-matematicos-unidades-monetarias-e-de-medidas
         https://www.deficienciavisual.pt/txt-grafiabrailleLP.htm
         https://www.gov.br/ibc/pt-br/pesquisa-e-tecnologia/materiais-especializados-1/livros-em-braille-1/o-sistema-braille-arquivos/grafia-braille-para-a-lingua-portuguesa-pdf.pdf
+        https://www.gov.br/ibc/pt-br/pesquisa-e-tecnologia/materiais-especializados-1/livros-em-braille-1/o-sistema-braille-arquivos/codigo-matematico-unificado-para-a-lingua-portuguesa-cmu-pdf.pdf/@@display-file/file
+        https://www.edvisionservices.org/Formsupdated/PDFForms/UEB_chart_and_reference_guide.pdf
+        https://chinhphu.vn/default.aspx?pageid=27160&docid=198030
