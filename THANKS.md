@@ -35,5 +35,5 @@
         https://www.gov.br/ibc/pt-br/pesquisa-e-tecnologia/materiais-especializados-1/livros-em-braille-1/o-sistema-braille-arquivos/codigo-matematico-unificado-para-a-lingua-portuguesa-cmu-pdf.pdf/@@display-file/file
         https://www.edvisionservices.org/Formsupdated/PDFForms/UEB_chart_and_reference_guide.pdf
         https://chinhphu.vn/default.aspx?pageid=27160&docid=198030
+        https://apadev.org.br/pages/downloads/AlfabetoBraille.pdf
 
-<img src="./img/logo.png" alt="Logo" width="500" height="493">
